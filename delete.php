@@ -9,5 +9,5 @@
         header("Location:showdata.php");
     }else{
         echo "Error";
-    }
+    } 
 ?>

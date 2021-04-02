@@ -14,7 +14,7 @@
 
         if (mysqli_query($conn, $sql)) {
             $result = "one record Inserted Successgully";
-        }else{
+        }else{ 
              $result = "Somethings went wrong" .mysql_connect_error($conn);
         }
        

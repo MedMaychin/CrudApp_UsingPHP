@@ -56,7 +56,7 @@
                     <?php } } ?>
                 </tbody>
                 </table>
-
+ 
 
                 <div class="form-group text-center">
                     <a class="btn btn-warning text-center" href="index.php">Insert New User</a>

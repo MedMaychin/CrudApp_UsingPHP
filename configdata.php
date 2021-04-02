@@ -10,6 +10,6 @@
     if (!$conn){
         die("Could not connect to database" .mysql_connect_error());
     }
-
+ 
 
 ?>
